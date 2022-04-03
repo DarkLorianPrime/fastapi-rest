@@ -1,2 +1,2 @@
 # fastapi-rest
-<<In progress>>
+\<In progress\>
